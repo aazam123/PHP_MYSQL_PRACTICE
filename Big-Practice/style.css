@@ -1,0 +1,52 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	margin: 0;
+	padding: 0;
+}
+h1{
+	text-align: center;
+	background-color: red;
+}
+header{
+	background-color: cyan;
+}
+nav{
+	text-align: center;
+	margin: 12px;
+}
+
+nav ul li{
+	display: inline-block;
+	margin-right: 80px;
+	
+}
+nav ul li a{
+	font-family: Arial;
+	text-decoration: none;
+}
+section{
+	background-color: orange;
+}
+.cen{
+	margin-left: 556px;
+}
+.cen input{
+	width: 223px;
+}
+.site-sele{
+	background-color: cyan;
+	
+}
+table{
+	background-color: #865467;
+}
+.upda_1{
+	background-color: #865;
+
+}
+form{
+	margin-right: 23px;
+}
